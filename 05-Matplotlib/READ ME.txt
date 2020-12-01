@@ -1,0 +1,10 @@
+READ ME pymaceuticals_starter
+
+This is based on a study a Mice with Cancer. The data was contained on two separate sheets that were joined with the duplicate Mouse ID and Timepoint removed. 
+The clean data was analyzed based on various statistical analysis. 
+
+Bar and pie charts were created to visualize the data. 
+
+The box plots were created to determine the quartiles and outliers.
+
+The data was then placed into a scatterplot to determine the correlation. 
